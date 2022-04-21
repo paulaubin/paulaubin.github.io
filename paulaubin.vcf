@@ -11,9 +11,9 @@ TEL;TYPE=MSG:
 TEL;TYPE=SIGNAL:
 EMAIL;TYPE=WORK:paul@eolrobotics.fr
 URL;TYPE=Digital Business Card:
-URL:www.eolrobotics.fr
-URL;TYPE=Website:www.eolrobotics.fr
+URL:https://www.eolrobotics.fr
+URL;TYPE=Website:https://www.eolrobotics.fr
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:We propose to optimise wind farms control with a Machine Learning. More electricity production, less maintenance costs and enhanced grid compliance
-UID:EnBizCard-100523499
+UID:EnBizCard-100411521
 END:VCARD
