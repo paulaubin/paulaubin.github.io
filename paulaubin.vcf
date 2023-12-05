@@ -2,18 +2,19 @@ BEGIN:VCARD
 VERSION:3.0
 N:Aubin;Paul;;;
 FN:Paul Aubin
-ORG:Eol Robotics
-TITLE:CEO
+ORG:Stackease
+ADR;TYPE=WORK:6 rue d'Armaillé 75017 Paris
+
+TITLE:CTO
 TEL;TYPE=CELL:+33626923937
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
-TEL;TYPE=SIGNAL:
-EMAIL;TYPE=WORK:paul@eolrobotics.fr
+EMAIL;TYPE=WORK:paul@stackease.fr
 URL;TYPE=Digital Business Card:
-URL:https://www.eolrobotics.fr
-URL;TYPE=Website:https://www.eolrobotics.fr
+URL:www.stackease.ai
+URL;TYPE=Website:www.stackease.ai
 KEY;TYPE=PGP;ENCODING=b:
-NOTE:We leverage Machine Learning algorithms to optimise wind farms controlOur software allows to increase electricity production, reduce maintenance costs and enhance grid compliance
-UID:EnBizCard-100355765
+NOTE:Monetizing grid-connected batteries
+UID:EnBizCard-100805631
 END:VCARD
